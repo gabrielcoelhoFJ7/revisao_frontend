@@ -1,0 +1,22 @@
+.div-row {
+    display: flex;
+    flex-direction: row;
+    background-color: coral;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.div-column {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 5%;
+    background-color: lightgreen;
+    justify-content: space-between;
+}
+
+.div-filho {
+    margin: 5px;
+    padding: 5px;
+    background-color: white;
+}

@@ -1,0 +1,23 @@
+.coral {
+    background-color: #fd675e;
+    height: 10vh;
+    margin: 25px 25px 25px 25px;
+}
+
+.blue {
+    background-color: #6fc4d0;
+    height: 45vh;
+    margin: 25px 25px 25px 25px;
+}
+
+.light-blue {
+    background-color: #d3ecf4;
+    width: 100vw;
+    height: 30vh;
+    margin: 0px 25px 25px 25px;
+}
+
+.div-row {
+    display: flex;
+    flex-direction: row;
+}
